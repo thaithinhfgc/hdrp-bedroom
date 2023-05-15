@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781fdd2f9d3893648931c1265707e8b5, type: 3}
+  m_Name: Blanket3
+  m_EditorClassIdentifier: 
+  blanketName: Book
+  blanketDescription: Book
+  icon: {fileID: 21300000, guid: 79ea8f536705cb7438026d7dc8bf59d5, type: 3}
+  blanketBaseMap: {fileID: 2800000, guid: 6f818ccab5765304c9445382ffddfcd8, type: 3}
+  blanketNormalMap: {fileID: 2800000, guid: cb71ee135e42e6c42a07aaade886682f, type: 3}

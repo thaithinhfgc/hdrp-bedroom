@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 781fdd2f9d3893648931c1265707e8b5, type: 3}
+  m_Name: Blanket1
+  m_EditorClassIdentifier: 
+  blanketName: 'Striped '
+  blanketDescription: 'Striped '
+  icon: {fileID: 21300000, guid: 32b9c3a5619063f4e9ef0a4c16a72bad, type: 3}
+  blanketBaseMap: {fileID: 2800000, guid: be5ef7dee581740468e307b081704361, type: 3}
+  blanketNormalMap: {fileID: 2800000, guid: cb71ee135e42e6c42a07aaade886682f, type: 3}
